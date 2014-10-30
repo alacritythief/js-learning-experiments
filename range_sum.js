@@ -17,7 +17,7 @@ console.log(range(1, 10));
 
 function sum(array) {
   var total = 0;
-  for (var count = 0; count <= array.length - 1; count++) {
+  for (var count = 0; count < array.length; count++) {
     total += array[count];
   }
   return total;
