@@ -1,5 +1,5 @@
-JS-Learning
-===========
+JS-learning-experiments
+=======================
 
 A bunch of JS learning experiments I've made, running through Node.
 
