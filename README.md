@@ -1,7 +1,7 @@
 JS-learning-experiments
 =======================
 
-A bunch of JS learning experiments I've made, running through Node.
+A bunch of random JS learning experiments I've made while reading EloquentJS, running through Node.
 
 How to run these files
 ----------------------
